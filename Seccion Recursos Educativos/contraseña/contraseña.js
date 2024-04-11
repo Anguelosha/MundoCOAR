@@ -1,0 +1,1 @@
+const correctPassword = 'madrededios.coar.edu.pe';
